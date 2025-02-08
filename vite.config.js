@@ -14,7 +14,7 @@ export default defineConfig({
                 'resources/css/DBcontentStyle.css',
                 'resources/css/AnnouncmentStyle.css',
                 'resources/css/reportStyles.css',
-                'resources/css/blotterStyles.css',
+                'resources/css/BlotterStyles.css',
                 'resources/css/borrowedStyle.css',
                 'resources/css/account.css',
                 'resources/css/profile.css',
