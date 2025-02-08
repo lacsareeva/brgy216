@@ -34,7 +34,7 @@ export default defineConfig({
                 'resources/js/ResidentScripts/dashboardScripts.js',
                 'resources/js/ResidentScripts/residentScripts.js',
                 'resources/css/ResidentStyles/dashboardStyle.css',
-                'resources/css/ResidentStyles/AnnouncementStyles.css',
+                'resources/css/ResidentStyles/announcementStyles.css',
                 'resources/css/ResidentStyles/brgyOfficials.css',
                 'resources/css/ResidentStyles/registerStyle.css',
                 'resources/css/ResidentStyles/loginStyle.css',
