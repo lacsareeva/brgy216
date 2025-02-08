@@ -12,7 +12,7 @@ export default defineConfig({
                 'resources/css/registerStyle.css',
                 'resources/css/DashboardStyle.css',
                 'resources/css/DBcontentStyle.css',
-                'resources/css/AnnouncementStyle.css',
+                'resources/css/AnnouncmentStyle.css',
                 'resources/css/reportStyles.css',
                 'resources/css/blotterStyles.css',
                 'resources/css/borrowedStyle.css',
